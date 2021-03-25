@@ -33,7 +33,6 @@
  * ipsec-server
  * zerotier
  * flowoffload
- * WIFI
  
 ------
  # 感激 
